@@ -1,8 +1,8 @@
-**Notion Clone - Projeto e Aprendizados**
+**AI Niedion**
 
 ## Sobre o Projeto
 
-Este projeto é um clone do Notion, desenvolvido como parte de um tutorial prático. A ideia é reproduzir algumas das funcionalidades fundamentais do Notion, proporcionando uma experiência prática de aprendizado em desenvolvimento web.
+Este projeto é um projeto inspirado no Notion, desenvolvido como parte de um tutorial prático. A ideia é reproduzir algumas das funcionalidades fundamentais do Notion, proporcionando uma experiência prática de aprendizado em desenvolvimento web.
 
 ## Tecnologias Utilizadas
 
@@ -21,12 +21,12 @@ Este projeto é um clone do Notion, desenvolvido como parte de um tutorial prát
 - **OpenAI's API para Modelos de Linguagem:**
   Integramos a API da OpenAI para explorar interações inteligentes baseadas em modelos de linguagem, enriquecendo a experiência do usuário.
 
-- **ORMs para Interação com Bancos de Dados:**
+- **Drizzle-ORM para Interação com Bancos de Dados:**
   O projeto demonstra o uso eficiente de Object-Relational Mapping (ORM) para interações suaves com bancos de dados.
 
 ## Aprendizados
 
-Durante este curso prático, adquiri conhecimentos valiosos em várias áreas:
+Durante este projeto prático, adquiri conhecimentos valiosos em várias áreas:
 
 1. **Desenvolvimento Full-Stack:**
    Aprendi a criar uma aplicação web completa, desde a configuração do ambiente de desenvolvimento até a implantação.
@@ -45,11 +45,3 @@ Durante este curso prático, adquiri conhecimentos valiosos em várias áreas:
 
 6. **Boas Práticas de Desenvolvimento:**
    Adotei boas práticas de desenvolvimento, incluindo o uso de ORMs para interações eficientes com bancos de dados.
-
-Este projeto não apenas me proporcionou uma compreensão mais profunda das tecnologias envolvidas, mas também me permitiu aplicar esses conhecimentos de maneira prática na construção de um aplicativo funcional e esteticamente agradável.
-
-Para reproduzir este projeto ou aprender mais, siga as instruções no vídeo tutorial associado.
-
----
-
-*Nota: Inclua qualquer informação adicional relevante para o seu projeto ou aprendizados específicos. Se precisar de mais detalhes, sinta-se à vontade para fornecer mais informações sobre o curso e o que você deseja destacar.*
