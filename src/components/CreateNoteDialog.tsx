@@ -36,11 +36,13 @@ const CreateNoteDialog = (props: Props) => {
       return;
     }
     createNotebook.mutate(undefined, {
-      onSuccess: () => {
-        console.log("created new note:");
+      onSuccess: ({note_id}) => {
+        console.log("created new note:",note_id );
+        router.push(`/notebook/${note_id}`)
       },
       onError: (error) => {
         console.error("failed to create new note:", error);
+        window.alert("failed to create new note");
       },
     });
   };
@@ -77,11 +79,10 @@ const CreateNoteDialog = (props: Props) => {
             <Button
               type="submit"
               className="bg-green-600"
-              // disabled={createNotebook.isLoading}
-            >
-              {/* {createNotebook.isLoading && (
+               disabled={createNotebook.status === "pending"}
+            >{createNotebook.status === "pending" && (
                 <Loader2 className="w-4 h-4 mr-2 animate-spin" />
-              )} */}
+              )}
               Create
             </Button>
           </div>
