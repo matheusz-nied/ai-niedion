@@ -31,6 +31,6 @@ export async function POST(req: Request) {
       insertedId: $notes.id
     })
   return NextResponse.json({
-    node_id: note_ids[0].insertedId 
+    note_id: note_ids[0].insertedId 
   })
 }
