@@ -6,7 +6,7 @@ Este projeto é um projeto inspirado no Notion, desenvolvido como parte de um tu
 
 ## Video do projeto
 
-![Video do Projeto](./public/ai-niedion-video.mp4)
+![Video do Projeto](./public/ai-niedion-video.gif)
 
 
 ## Tecnologias Utilizadas
