@@ -4,25 +4,31 @@
 
 Este projeto é um projeto inspirado no Notion, desenvolvido como parte de um tutorial prático. A ideia é reproduzir algumas das funcionalidades fundamentais do Notion, proporcionando uma experiência prática de aprendizado em desenvolvimento web.
 
+## Video do projeto
+
+![Video do Projeto](./public/ai-niedion-video.mp4)
+
+
 ## Tecnologias Utilizadas
 
 - **Next.js 13.4:**
-  O projeto utiliza a versão 13.4 do Next.js, explorando suas últimas funcionalidades, incluindo o poderoso App Router para uma navegação dinâmica.
-
-- **Vercel:**
-  A implantação do projeto é realizada de forma eficiente usando a plataforma Vercel, garantindo uma experiência de hospedagem simples e eficaz.
+  O projeto utiliza a versão 13.4 do Next.js, explorando suas últimas funcionalidades.
 
 - **DALL-E AI Image Generation:**
-  Para adicionar um toque único, incorporamos a geração de imagens com a inteligência artificial do DALL-E, proporcionando uma estética visualmente impressionante.
+  Para adicionar um toque único, incorporamos a geração de imagens com a inteligência artificial do DALL-E.
+
+- **OpenAI's API para Modelos de Linguagem:**
+  Integramos a API da OpenAI para explorar interações inteligentes baseadas em modelos de linguagem, criando um autocompleto gerado pela AI enriquecendo a experiência do usuário.
 
 - **Shadcn e Tailwind CSS:**
   A estilização é feita de forma criativa com Shadcn e Tailwind CSS, resultando em uma interface do usuário atraente e responsiva.
 
-- **OpenAI's API para Modelos de Linguagem:**
-  Integramos a API da OpenAI para explorar interações inteligentes baseadas em modelos de linguagem, enriquecendo a experiência do usuário.
-
 - **Drizzle-ORM para Interação com Bancos de Dados:**
   O projeto demonstra o uso eficiente de Object-Relational Mapping (ORM) para interações suaves com bancos de dados.
+
+- **Clerk:** Utilizado para autenticação.
+
+- **Tip Tap:** O TipTap é um framework para edição de texto. Ele oferece uma maneira fácil de incorporar funcionalidades de edição de texto avançadas em aplicativos permitindo que os desenvolvedores criem interfaces de usuário interativas e visualmente atraentes para a entrada de texto.
 
 ## Aprendizados
 
