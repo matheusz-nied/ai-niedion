@@ -4,9 +4,19 @@
 
 Este projeto é um projeto inspirado no Notion, desenvolvido como parte de um tutorial prático. A ideia é reproduzir algumas das funcionalidades fundamentais do Notion, proporcionando uma experiência prática de aprendizado em desenvolvimento web.
 
-## Video do projeto
+## Visualização do projeto
 
 ![Video do Projeto](./public/ai-niedion-video.gif)
+
+### **Criando nota**
+![Imagem projeto](./public/1ai.png)
+
+
+### **Escrevendo nota ou pedindo para a Ai da OpenAi gerar texto**
+![Imagem projeto](./public/2ai.png)
+
+### **Notas e imagens geradas pelo DALL-E da OpenAi**
+![Imagem projeto](./public/3ai.png)
 
 
 ## Tecnologias Utilizadas
